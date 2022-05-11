@@ -14,4 +14,6 @@ server.use(cors({
 
 server.use('/aluno', alunoRoutes);
 
+//teste
+
 
