@@ -13,7 +13,6 @@ server.use(cors({
 }))
 
 server.use('/aluno', alunoRoutes);
-
-//teste
+server.use('/sala')
 
 
